@@ -1,8 +1,3 @@
-بالطبع! سأقوم بتحديث ملف `README.md` لإضافة بريدك الإلكتروني وموقعك الشخصي. إليك النسخة المحدثة:
-
----
-
-```markdown
 # Django Extended User Profile
 
 A Django project that allows registered users to edit their profiles outside the admin panel. This project is built using **Django** and **Bootstrap 5** to provide a smooth and user-friendly experience.
@@ -182,4 +177,3 @@ If you have any questions or suggestions, feel free to reach out:
 - **GitHub**: [salahsaeed19](https://github.com/salahsaeed19)
 - **Email**: [salahsaef40@gmail.com](mailto:salahsaef40@gmail.com)
 - **Website**: [RCM Engineering](https://rcm-eng.com/)
-```
